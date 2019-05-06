@@ -11,7 +11,7 @@
 //	#1 Cleanning data
 ***************************************************************
 *** Loading data
-cd "C:\Users\bluep\Dropbox\peng\Academia\Work with Shawn\data&old code"
+cd "C:\Users\bluep\Dropbox\peng\Academia\Work with Shawn\SSM\data&old code"
 use "mom dyad level T1 Full Sample with mortality 8-1-2016.sent to Peng 1-2-18.dta",replace
 
 *** ID variables

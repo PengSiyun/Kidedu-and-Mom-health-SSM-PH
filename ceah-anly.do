@@ -3,7 +3,7 @@
 *** Date: February 1, 2019
 
 *** Set working directory and load data
-cd "G:\Dropbox\Dropbox\peng\Academia\RA with Shawn\Share with Shawn"
+cd "G:\Dropbox\Dropbox\peng\Academia\Share with Shawn"
 use ceah-mi-data, replace
 
 
@@ -141,7 +141,7 @@ coefplot (adlm1,label("Base model")) (adlm2,label("Base model" "+ Controls")) //
 	title("Activity Limitation") ///
 	xtit("OR of % children with BA") coeflabels(aedu=" ")   
 graph combine "`c1'" "`c2'"
-graph export ~/desktop/Fig2.png, replace
+graph export ~/desktop/Fig2.jpg, replace
 
 restore
 
