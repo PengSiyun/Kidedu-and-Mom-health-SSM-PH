@@ -1,4 +1,7 @@
 # Kidedu-and-Mom-health-SSM-PH
+
+![](Image/Figure.jpg)
+
 Journal: SSM-Population Health
 
 URL: https://www.sciencedirect.com/science/article/pii/S2352827318303793
